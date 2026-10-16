@@ -1,5 +1,4 @@
 # APM1205 Linear Models — Summative Assessment 1
-# Run from the project root: source("code/SANTOS_SA1.R")
 
 pkgs <- c("ggplot2", "car", "lmtest", "broom")
 need <- pkgs[!vapply(pkgs, requireNamespace, logical(1), quietly = TRUE)]
