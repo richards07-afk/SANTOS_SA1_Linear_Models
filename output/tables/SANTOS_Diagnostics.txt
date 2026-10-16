@@ -1,0 +1,4 @@
+Breusch-Pagan LM=844.3088, p-value=3.65074e-171
+Holdout RMSE=433.351
+Holdout MAE=323.198
+Multiple model R-squared=0.5504; adjusted R-squared=0.5497
